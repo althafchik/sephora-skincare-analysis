@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Abaikan data CSV mentah dan Parquet hasil olahan
+*.csv
+*.parquet
+
+# Folder data (opsional jika ingin lebih rapi)
+data/
